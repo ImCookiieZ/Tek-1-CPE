@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CPE_matchstick_2019"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPE_matchstick_2019">
+				<Option output="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/CPE_matchstick_2019" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPE_matchstick_2019"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPE_matchstick_2019/fast">
+				<Option output="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/CPE_matchstick_2019" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPE_matchstick_2019/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/concat_params.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/flag_functions0.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/flag_functions1.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/flag_functions2.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/formating.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/formating1.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/formating2.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/get_next_line.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/get_next_line.h">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_compute_power_rec.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_compute_square_root.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_declare_structure.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_delete_zeros.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_find_prime_sup.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_getnbr.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_getnbr2.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_is_prime.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_isneg.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_memset.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_printf.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_printf.h">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_put_nbr.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_putchar.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_putstr.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_revstr.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_show_word_array.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_showstr.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_sort_int_array.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_str_islower.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_str_isnum.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_str_isprintable.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_str_to_word_array.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_strcat.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_strcat_char.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_strcmp.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_strcpy.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_strdup.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_strlen.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_strncat.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_strncpy.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_strstr.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/my_swap.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/lib/my/shortthings_forother_functions.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/src/ai.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/src/final.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/src/game_loop.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/src/get_inputs.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/src/main.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/src/new_class.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/src/preparation.c">
+			<Option target="CPE_matchstick_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/CPE_matchstick_2019/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

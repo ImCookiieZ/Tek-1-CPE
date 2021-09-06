@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/generator/include/all_includes.h
+my.h
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/generator/include/my.h
+time.h
+-
+
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/generator/include/my.h
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/generator/src/df_alg.c
+../include/all_includes.h
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/generator/include/all_includes.h
+
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/generator/src/do_additional_functions.c
+../include/all_includes.h
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/generator/include/all_includes.h
+
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/generator/src/error.c
+../include/all_includes.h
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/generator/include/all_includes.h
+
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/generator/src/main.c
+../include/all_includes.h
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/generator/include/all_includes.h
+
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/generator/src/stacks.c
+../include/all_includes.h
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/generator/include/all_includes.h
+

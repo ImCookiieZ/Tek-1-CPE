@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CookiieZ/Epitech/CPE/get_next_line/CPE_getnextline_2019/include/CPE_getnextline_bootstrap_2019.h
+my.h
+/home/CookiieZ/Epitech/CPE/get_next_line/CPE_getnextline_2019/include/my.h
+
+/home/CookiieZ/Epitech/CPE/get_next_line/CPE_getnextline_2019/include/my.h
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+
+/home/CookiieZ/Epitech/CPE/get_next_line/CPE_getnextline_2019/src/main.c
+string.h
+-
+zconf.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+../include/CPE_getnextline_bootstrap_2019.h
+/home/CookiieZ/Epitech/CPE/get_next_line/CPE_getnextline_2019/include/CPE_getnextline_bootstrap_2019.h
+

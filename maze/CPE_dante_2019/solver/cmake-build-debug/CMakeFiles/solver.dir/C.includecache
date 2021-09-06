@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/solver/include/all_includes.h
+my.h
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/solver/include/my.h
+
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/solver/include/my.h
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/solver/src/new_bfs.c
+zconf.h
+-
+../include/all_includes.h
+/home/CookiieZ/Epitech/CPE/maze/CPE_dante_2019/solver/include/all_includes.h
+

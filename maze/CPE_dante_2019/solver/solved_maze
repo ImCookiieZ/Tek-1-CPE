@@ -1,0 +1,49 @@
+0: x: 21y: 11
+1: x: 20y: 11
+2: x: 19y: 11
+3: x: 18y: 11
+4: x: 17y: 11
+5: x: 16y: 11
+6: x: 15y: 11
+7: x: 14y: 11
+8: x: 13y: 11
+9: x: 12y: 11
+10: x: 11y: 11
+11: x: 10y: 11
+12: x: 9y: 11
+13: x: 9y: 10
+14: x: 9y: 9
+15: x: 9y: 8
+16: x: 9y: 7
+17: x: 9y: 6
+18: x: 8y: 6
+19: x: 6y: 6
+20: x: 5y: 6
+21: x: 4y: 9
+22: x: 4y: 8
+23: x: 4y: 7
+24: x: 4y: 6
+25: x: 4y: 5
+26: x: 4y: 4
+27: x: 4y: 3
+28: x: 4y: 2
+29: x: 3y: 2
+30: x: 2y: 2
+31: x: 2y: 1
+32: x: 2y: 0
+33: x: 1y: 0
+34: x: 0y: 0
+35: x: 0y: 0
+The shortest path from source to destination has length 34
+oooxx***xxxx****x******
+xxoxx*x*xxx*x*x***x*x*x
+xxooo*xx*******xx**x***
+xxxxoxxxxxxxxxx******x*
+xxx*o***********xx*x***
+xx*xox*x*x*x**x******x*
+xx**ooo*oo*****x*x*x*x*
+xxxxoxx*xox*x**********
+xxxxoxxx*o*****x*x*x*x*
+xxxxox**xox*x*x********
+xxxx**x*xox*x*x*x*x*x*x
+xxxxxx***oooooooooooooo

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CookiieZ/Epitech/CPE/pushswap/CPE_pushswap_2019/include/my.h
+unistd.h
+-
+stdio.h
+-
+stdlib.h
+-
+
+/home/CookiieZ/Epitech/CPE/pushswap/CPE_pushswap_2019/include/push_swap.h
+my.h
+/home/CookiieZ/Epitech/CPE/pushswap/CPE_pushswap_2019/include/my.h
+
+/home/CookiieZ/Epitech/CPE/pushswap/CPE_pushswap_2019/src/sort.c
+../include/push_swap.h
+/home/CookiieZ/Epitech/CPE/pushswap/CPE_pushswap_2019/include/push_swap.h
+

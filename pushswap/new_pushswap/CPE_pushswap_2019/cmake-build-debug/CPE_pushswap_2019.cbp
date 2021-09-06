@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CPE_pushswap_2019"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPE_pushswap_2019">
+				<Option output="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/CPE_pushswap_2019" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPE_pushswap_2019"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPE_pushswap_2019/fast">
+				<Option output="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/CPE_pushswap_2019" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPE_pushswap_2019/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/do_not_add_this.c">
+			<Option target="CPE_pushswap_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/lib/my/my_getnbr.c">
+			<Option target="CPE_pushswap_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/lib/my/my_put_nbr.c">
+			<Option target="CPE_pushswap_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/lib/my/my_putchar.c">
+			<Option target="CPE_pushswap_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/lib/my/my_putstr.c">
+			<Option target="CPE_pushswap_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/src/backrotation.c">
+			<Option target="CPE_pushswap_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/src/my_merge.c">
+			<Option target="CPE_pushswap_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/src/preparation.c">
+			<Option target="CPE_pushswap_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/src/rotate.c">
+			<Option target="CPE_pushswap_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/src/run_function.c">
+			<Option target="CPE_pushswap_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/src/sort.c">
+			<Option target="CPE_pushswap_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/src/swap.c">
+			<Option target="CPE_pushswap_2019"/>
+		</Unit>
+		<Unit filename="/home/CookiieZ/Epitech/CPE/pushswap/new_pushswap/CPE_pushswap_2019/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
